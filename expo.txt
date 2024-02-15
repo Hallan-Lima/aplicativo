@@ -1,0 +1,3 @@
+Comando para ativar o app
+
+npx expo start
