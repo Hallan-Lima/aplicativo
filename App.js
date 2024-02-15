@@ -13,7 +13,7 @@ export default function App() {
       <Text>ola mundo!</Text>
       <StatusBar style="auto" />
       <TouchableOpacity style={styles.button} onPress={handlePress}>
-        <Text style={styles.buttonText}>Clique aqui</Text>
+        <Text style={styles.buttonText}>Clique aquia</Text>
       </TouchableOpacity>
     </View>
   );
